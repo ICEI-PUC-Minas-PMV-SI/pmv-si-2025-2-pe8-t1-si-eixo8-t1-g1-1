@@ -10,7 +10,7 @@ A empresa escolhida para este estudo é a Funilaria e Pintura "Pintura Auto Car"
 
 ## Integrantes
 
-* Everton de Souza Kenedy
+* Everton Kenedy
 * Roberto Almeida
 * Sara Vidal
 
