@@ -6,7 +6,7 @@
 
 `SEMESTRE: 8º`
 
-A empresa escolhida para este estudo é a Funilaria e Pintura "Pintura Auto Car", uma microempresa individual (MEI) que opera no setor de serviços automotivos. A principal atividade da empresa é a reparação de lataria e pintura de veículos, oferecendo serviços de alta qualidade e personalizados para clientes individuais. Sua missão é restaurar a integridade estética e funcional dos veículos, utilizando mão de obra qualificada e um atendimento direto e transparente. 
+Este projeto apresenta o desenvolvimento completo de um sistema de gestão para a funilaria “Pintura Auto Car”, abrangendo análise de mercado, processos internos, mapeamento de dados, Inteligência Competitiva (IC) e definição de requisitos funcionais e não funcionais. A solução integra Excel + VBA com banco SQL para digitalizar e padronizar operações como controle de estoque, cadastro de clientes, orçamentos, fluxo de caixa e geração de relatórios e dashboards. O trabalho inclui modelagem, protótipos, PETI, governança de TI e práticas de segurança alinhadas à LGPD, resultando em uma plataforma estruturada que melhora a eficiência operacional, reduz perdas e oferece suporte estratégico à tomada de decisões em uma microempresa automotiva.
 
 ## Integrantes
 
