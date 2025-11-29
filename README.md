@@ -1,4 +1,4 @@
-# Título do Projeto
+# Pintura Auto Car
 
 `CURSO: Sistemas de Informação`
 
@@ -6,19 +6,17 @@
 
 `SEMESTRE: 8º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+A empresa escolhida para este estudo é a Funilaria e Pintura "Pintura Auto Car", uma microempresa individual (MEI) que opera no setor de serviços automotivos. A principal atividade da empresa é a reparação de lataria e pintura de veículos, oferecendo serviços de alta qualidade e personalizados para clientes individuais. Sua missão é restaurar a integridade estética e funcional dos veículos, utilizando mão de obra qualificada e um atendimento direto e transparente. 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Everton de Souza Kenedy
+* Roberto Almeida
+* Sara Vidal
+
 
 
 ## Orientador
 
-* Nome completo do professor 1
+* Simone Fernandes Queiroz 
 
